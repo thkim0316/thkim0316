@@ -6,7 +6,7 @@
 <!-- CONTENTS -->
 <div align="center">
     <h2>Taehyun Kim's GitHub</h2>
-    I'M LEARNING THE BACKEND.
+    I'M LEARNING BACKEND.
 </div>
 
 <div style="text-align: left;">
