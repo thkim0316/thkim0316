@@ -4,8 +4,8 @@
 </div>
 
 <!-- CONTENTS -->
-<div>
-    <h2>Taehyun Kim' GitHub</h2>
+<div align="center">
+    <h2>Taehyun Kim's GitHub</h2>
     I'M LEARNING THE BACKEND.
 </div>
 
