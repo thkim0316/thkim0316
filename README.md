@@ -3,7 +3,12 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=#b897ff&height=180&text=Taehyun%20Kim's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
 </div>
 
-<!-- CONTENT -->
+<!-- CONTENTS -->
+<div>
+    <h2>Taehyun Kim' GitHub</h2>
+    I'M LEARNING THE BACKEND.
+</div>
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2><br>
         <div  align= "center">
